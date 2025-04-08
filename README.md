@@ -5,13 +5,15 @@
 <p align="center">Tive experiência com</p>
 <div style="display: inline" align="center">
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 <hr>
 
 <p align="center">Atualmente estou <b>aprendendo</b></p>
 <div style="display: inline" align="center">
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 </div>
 <hr>
 
