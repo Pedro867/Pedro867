@@ -1,6 +1,7 @@
 - 👋 Meu nome é Pedro Lucas
 - 🔭 Atualmente estou cursando Técnico em Informática pelo CEFET
 - ☁️ Procuro aprender novas técnicas <b>Back-End</b>
+
 <hr>
 <p align="center">Tive experiência com</p>
 <div style="display: inline" align="center">
@@ -8,13 +9,25 @@
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
+
 <hr>
 
 <p align="center">Atualmente estou <b>aprendendo</b></p>
 <div style="display: inline" align="center">
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
+
+<hr>
+
+<p align="center">Ferramentas</p>
+<div style="display: inline" align="center">
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
+</div>
+
 <hr>
 
 <div style="display: inline" align="center">
