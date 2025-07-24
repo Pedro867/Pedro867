@@ -4,7 +4,7 @@
 
 <hr>
 <p align="center">Tive experiência com</p>
-<div style="display: inline; gap: 50px" align="center">
+<div style="display: flex; gap: 50px" justify-content: center;>
   
 <img width=50 height=50 src="https://devicon-website.vercel.app/api/c/original.svg"></img>
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
