@@ -1,9 +1,9 @@
 - 👋 Meu nome é Pedro Lucas
-- 🔭 Atualmente estou cursando Técnico em Informática pelo CEFET
-- ☁️ Procuro aprender novas técnicas <b>Back-End</b>
+- 🔭 Técnico em Informática pelo CEFET-MG
+- ☁️ Procuro experiências na área de <b>Programação</b>
 
 <hr>
-<p align="center">Tive experiência com</p>
+<p align="center">Tenho experiência com</p>
 <div style="display: inline" align="center">
 <img width=50 height=50 src="https://devicon-website.vercel.app/api/c/original.svg">
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -16,10 +16,10 @@
 
 <hr>
 
-<p align="center">Atualmente estou <b>aprendendo</b></p>
+<p align="center">Atualmente estou aprendendo</p>
 <div style="display: inline" align="center">
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
-<img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
