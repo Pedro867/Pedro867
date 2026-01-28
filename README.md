@@ -1,41 +1,63 @@
-- 👋 Meu nome é Pedro Lucas
-- 🔭 Técnico em Informática pelo CEFET-MG
-- ☁️ Procuro experiências na área de <b>Programação</b>
+- 👋 Meu nome é **Pedro Lucas**
+- 🔭 Técnico em Informática pelo **CEFET-MG**
+- ☁️ Procuro experiências na área de **Programação**
 
-<hr>
-<p align="center">Tenho experiência com</p>
-<div style="display: inline" align="center">
-<img width=50 height=50 src="https://devicon-website.vercel.app/api/c/original.svg">
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  
-<img width=70 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
+---
 
-<hr>
+<h3 align="center">🧠 Tenho experiência com</h3>
 
-<p align="center">Atualmente estou aprendendo</p>
-<div style="display: inline" align="center">
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
-<img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+<p align="center">
+  <img width="56" src="https://devicon-website.vercel.app/api/c/original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />          
+  &nbsp;&nbsp;
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
 
-<hr>
+---
 
-<p align="center">Ferramentas</p>
-<div style="display: inline" align="center">
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" />
+<h3 align="center">📚 Atualmente estou aprendendo</h3>
 
-</div>
+<p align="center">
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+</p>
 
-<hr>
+---
 
-<div style="display: inline" align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro867&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<h3 align="center">🛠️ Ferramentas</h3>
+
+<p align="center">
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+</p>
+
+---
+
+<h3 align="center">📊 Linguagens mais usadas</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro867&layout=compact&langs_count=7&theme=dracula"/>
+</p>
