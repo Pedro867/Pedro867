@@ -17,6 +17,8 @@
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />          
   &nbsp;&nbsp;
   <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
@@ -46,8 +48,6 @@
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-  &nbsp;&nbsp;
-  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
   &nbsp;&nbsp;
