@@ -1,10 +1,26 @@
-- 👋 Meu nome é **Pedro Lucas**
-- 🔭 Técnico em Informática pelo **CEFET-MG**
-- ☁️ Procuro experiências na área de **Programação**
+- 👋 Olá, eu sou o **Pedro Lucas**.
+- 🔭 Técnico em Informática pelo **CEFET-MG**.
+- 💻 Atualmente sou **Estagiário em Desenvolvimento Web Fullstack**.
+- 🛠️ Tenho trabalhado principalmente com **Python (Flask), JavaScript e PostgreSQL**.
+- ⚙️ No momento, estou focado em **refatoração**, **qualidade de código** e **otimização de backend**.
 
 ---
 
-<h3 align="center">🧠 Tenho experiência com</h3>
+<h3 align="center">🧠 Tecnologias e Stack Atual</h3>
+
+<p align="center">
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+---
+
+<h3 align="center">📚 Outras Tecnologias e Bagagem Acadêmica</h3>
 
 <p align="center">
   <img width="56" src="https://devicon-website.vercel.app/api/c/original.svg" />
@@ -22,20 +38,6 @@
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />          
   &nbsp;&nbsp;
   <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  &nbsp;&nbsp;
-  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
-
----
-
-<h3 align="center">📚 Atualmente estou aprendendo</h3>
-
-<p align="center">
-  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  &nbsp;&nbsp;
-  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </p>
 
 ---
