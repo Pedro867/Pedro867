@@ -52,6 +52,8 @@
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </p>
 
 ---
