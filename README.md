@@ -11,7 +11,11 @@
 <p align="center">
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp;&nbsp;
+  <img width="56" src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23227AB9"></img>
+  &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   &nbsp;&nbsp;
@@ -38,6 +42,10 @@
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />          
   &nbsp;&nbsp;
   <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  &nbsp;&nbsp;
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://devicon-website.vercel.app/api/fastapi/original.svg"></img>
 </p>
 
 ---
@@ -56,6 +64,8 @@
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 </p>
 
 ---
