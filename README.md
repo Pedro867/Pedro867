@@ -1,4 +1,5 @@
 - 👋 Olá, eu sou o **Pedro Lucas**.
+- 🎓 Atualmente curso o 1º período de **Ciência da Computação** na Escola Superior Dom Helder Câmara.
 - 🔭 Técnico em Informática pelo **CEFET-MG**.
 - 💻 Atualmente sou **Estagiário em Desenvolvimento Web Fullstack**.
 - 🛠️ Tenho trabalhado principalmente com **Python (Flask), JavaScript e PostgreSQL**.
