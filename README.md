@@ -67,6 +67,8 @@
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://devicons.io/devicons/icons/claude-icon.svg" />
 </p>
 
 ---
