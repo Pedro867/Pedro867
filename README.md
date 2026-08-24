@@ -28,25 +28,31 @@
 <h3 align="center">📚 Outras Tecnologias e Bagagem Acadêmica</h3>
 
 <p align="center">
-  <img width="56" src="https://devicon-website.vercel.app/api/c/original.svg" />
+  <img width="56" src="https://devicon-website.vercel.app/api/fastapi/original.svg"></img>
   &nbsp;&nbsp;
-  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  &nbsp;&nbsp;
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <br>
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  &nbsp;&nbsp;
+  <img width="56" src="https://devicon-website.vercel.app/api/c/original.svg" />
+  &nbsp;&nbsp;
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  &nbsp;&nbsp;
-  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />          
-  &nbsp;&nbsp;
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  &nbsp;&nbsp;
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
-  &nbsp;&nbsp;
-  <img width="56" src="https://devicon-website.vercel.app/api/fastapi/original.svg"></img>
 </p>
 
 ---
@@ -68,6 +74,7 @@
   &nbsp;&nbsp;
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
   &nbsp;&nbsp;
+  <br>
   <img width="56" src="https://devicons.io/devicons/icons/claude-icon.svg" />
 </p>
 
