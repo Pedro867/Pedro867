@@ -1,9 +1,9 @@
-- 👋 Olá, eu sou o **Pedro Lucas**.
-- 🎓 Atualmente curso o 1º período de **Ciência da Computação** na Escola Superior Dom Helder Câmara.
+- 👋 Olá, eu sou o **Pedro Ferreira**.
+- 🎓 Cursando **Ciência da Computação** na Escola Superior Dom Helder Câmara.
 - 🔭 Técnico em Informática pelo **CEFET-MG**.
 - 💻 Atualmente sou **Estagiário em Desenvolvimento Web Fullstack**.
-- 🛠️ Tenho trabalhado principalmente com **Python (Flask), JavaScript e PostgreSQL**.
-- ⚙️ No momento, estou focado em **refatoração**, **qualidade de código** e **otimização de backend**.
+- 🛠️ Trabalhando com **Python (Flask), JavaScript e PostgreSQL**.
+- ⚙️ Atualmente focado em **Pipelines de Dados (ETL/ELT)**, **Modelagem de Dados**, **Qualidade de Código** e **Otimização de Consultas SQL**.
 
 ---
 
